@@ -1,0 +1,6 @@
+[book]
+authors = ["reigadegr"]
+language = "cn"
+multilingual = false
+src = "src"
+title = "私人笔记"
